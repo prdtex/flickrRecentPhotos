@@ -1,0 +1,15 @@
+{
+  "name": "flickrrecentphotos",
+  "version": "1.0.0",
+  "description": "Display the 10 most recent photos on Flickr!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Rice",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "save": "^2.3.2"
+  }
+}
